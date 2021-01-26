@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo">
+        <item>Lista</item>
+        <item>Grilla</item>
+    </string-array>
+    <string-array name="lista">
+        <item>Peru</item>
+        <item>Bolivia</item>
+        <item>Argentina</item>
+        <item>Ecuador</item>
+    </string-array>
+</resources>
