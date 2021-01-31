@@ -1,4 +1,4 @@
-package com.explode.migranprimeraapp2;
+package com.explode.migranprimeraapp2.Ejemplo1;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
+
+import com.explode.migranprimeraapp2.R;
 
 public class MainActivity extends AppCompatActivity {
 
