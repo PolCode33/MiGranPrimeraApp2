@@ -7,12 +7,12 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
     <Spinner
+        android:id="@+id/mispinner"
         android:entries="@array/tipo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-    <fragment
-        android:id="@+id/mifragment"
-        android:name="com.explode.migranprimeraapp2.GridFragmento"
+    <FrameLayout
+        android:id="@+id/fragmento"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
