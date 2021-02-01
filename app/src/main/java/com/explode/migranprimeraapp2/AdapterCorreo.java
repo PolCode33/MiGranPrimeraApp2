@@ -33,7 +33,7 @@ public class AdapterCorreo extends RecyclerView.Adapter<AdapterCorreo.ViewHolder
                 intent.putExtra("texto",datos[i].getTexto());
                 intent.putExtra("de",datos[i].getDe());
                 intent.putExtra("asunto",datos[i].getAsunto());
-//micontext.startActivity(intent);
+                micontext.startActivity(intent);
             }
         });
     }

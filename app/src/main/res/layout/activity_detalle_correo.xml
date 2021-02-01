@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".DetalleCorreo">
 
+    <TextView
+        android:id="@+id/TxtDetalle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="178dp"
+        tools:layout_editor_absoluteY="166dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
